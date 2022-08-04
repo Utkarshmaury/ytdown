@@ -8,13 +8,13 @@
 <br>
 <b> Follow this commands to get me into your terminal </b>
 <br>
-$ git clone https://github.com/Utkarshmaury/ytdown
+>$ git clone https://github.com/Utkarshmaury/ytdown
 <br>
-$ cd ytdown
+>$ cd ytdown
 <br>
-$ chmod +x install.sh
+>$ chmod +x install.sh
 <br>
-$ ./install.sh
+>$ ./install.sh
 <br>
 PLEASE KEEP PATIENCE WHILE WE DOWNLOADING VIDEOS FROM SERVER.
 <br>
