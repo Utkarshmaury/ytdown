@@ -10,18 +10,15 @@
 <br>
 <hr>
 <hr>
-<q>
-git clone https://github.com/Utkarshmaury/ytdown
-</q>
-<q>
-cd ytdown
-</q>
-<q>
-chmod +x install.sh
-</q>
-<q>
-./install.sh
-</q>
+<br>
+$ git clone https://github.com/Utkarshmaury/ytdown
+<br>
+$ cd ytdown
+<br>
+$ chmod +x install.sh
+<br>
+$ ./install.sh
+<br>
 <hr>
 <hr>
 <br>
