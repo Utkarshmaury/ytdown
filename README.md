@@ -7,10 +7,10 @@
 <h2>An innovative way to Download Youtube videos into internal storage using terminal.</h2>
 <br>
 <b> Follow this commands to get me into your terminal </b>
-```
 $ git clone https://github.com/Utkarshmaury/ytdown
 $ cd ytdown
 $ chmod +x install.sh
 $ ./install.sh
-```
+<br>
 PLEASE KEEP PATIENCE WHILE WE DOWNLOADING VIDEOS FROM SERVER.
+<br>
