@@ -6,7 +6,7 @@
 <hr>
 <h2>An innovative way to Download Youtube videos into internal storage using terminal.</h2>
 <br>
-<b> Follow this commands to get me into your terminal </b>
+<h3> Follow this commands to get me into your terminal </h3>
 <br>
 <hr>
 <hr>
