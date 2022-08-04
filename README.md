@@ -19,6 +19,7 @@ $ chmod +x install.sh
 <br>
 $ ./install.sh
 <br>
+<b> After running install.sh ,run ./setup.sh to launch script.
 <hr>
 <hr>
 <br>
