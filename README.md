@@ -8,11 +8,22 @@
 <br>
 <b> Follow this commands to get me into your terminal </b>
 <br>
-'''
+<hr>
+<hr>
+<q>
 git clone https://github.com/Utkarshmaury/ytdown
+</q>
+<q>
 cd ytdown
+</q>
+<q>
 chmod +x install.sh
+</q>
+<q>
 ./install.sh
-'''
+</q>
+<hr>
+<hr>
 <br>
+<hr>
 PLEASE KEEP PATIENCE WHILE WE DOWNLOADING VIDEOS FROM SERVER.
