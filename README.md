@@ -16,4 +16,3 @@ chmod +x install.sh
 ```
 <br>
 PLEASE KEEP PATIENCE WHILE WE DOWNLOADING VIDEOS FROM SERVER.
-<br>
